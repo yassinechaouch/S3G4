@@ -1,4 +1,4 @@
-# sunrise
+# Sunrise
 
 The purpose of this project is to develop an automated blinds system controlled by an UI-friendly mobile application. This product will help the user be more comfortable in his house by allowing him to close and open his blinds remotely. Furthermore, for more convenience, he will be able to schedule the opening and closing time of his blinds.
 This projects 
