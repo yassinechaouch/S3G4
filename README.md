@@ -1,16 +1,9 @@
-# sunchine
+# sunrise
 
-A new Flutter application.
+The purpose of this project is to develop an automated blinds system controlled by an UI-friendly mobile application. This product will help the user be more comfortable in his house by allowing him to close and open his blinds remotely. Furthermore, for more convenience, he will be able to schedule the opening and closing time of his blinds.
+This projects 
+The code is divided into 2 parts :
 
-## Getting Started
+The Cross platform Mobile App written in Flutter : user just needs to open the project in android studio or any other text editor or IDE to modify the code , downloads the flutter packages by just typing flutter pub get and he will be able to run the App on android or iOS phone .
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The Raspberry Pi code that contains the web server (Written in python Flask) that will work as an API between flutter and the raspberry pi. 
